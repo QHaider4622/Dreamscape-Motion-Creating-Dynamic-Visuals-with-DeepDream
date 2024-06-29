@@ -1,1 +1,1 @@
-# Dreamscape-Motion-Creating-Dynamic-Visuals-with-DeepDream
+# Dreamscape Motion : Creating Dynamic Visuals with DeepDream
