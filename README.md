@@ -66,9 +66,7 @@ The processed images are saved to a specified directory.
 We create a video from the processed images using OpenCV's `VideoWriter`.
 
 ### Deep Dream Video
-
 https://github.com/QHaider4622/Dreamscape-Motion-Creating-Dynamic-Visuals-with-DeepDream/assets/79516393/b6e472cd-64a8-4083-9df6-c5f08024eb80
-
 
 ### Saving the Video
 
